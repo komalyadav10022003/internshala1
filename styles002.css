@@ -1,0 +1,84 @@
+.sec2{
+display :flex;
+}
+
+.sec9 , .sec6 ,.sec7,.sec8,.sec5,.sec4,.sec3,.div21,.sec1, .div24{
+    display:flex;
+}
+
+.a1{
+	color:red;
+	font-weight: bold;
+	
+}
+
+a{
+	 text-decoration: none;
+	 margin-right :50px;
+}
+
+button{
+	background-color:black;
+	color : white;
+	margin-left : 600px;
+	font-size :20px;
+}
+
+.div1 h1{
+	font-weight: bold;
+	color : black;
+	font-size:40px;
+}
+
+.div12,.div16,.div17{
+	width : 600px;
+	height : 75 px;
+	padding-bottom:20px;
+	text-align: center;
+	margin-left: auto;
+  margin-right: auto;
+  background-color: #da2c43;
+  border-radius: 8px;
+  color :white;
+}
+.div13,.div15,.div18{
+	width : 600px;
+	height : 75 px;
+	padding-bottom:20px;
+	text-align: center;
+	margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  color :Black;
+}
+
+.div12 h3,.div16 h3,.div17 h3,.div13 h3,.div15 h3,.div18 h3,h1{
+	font-size : 30px;
+	font-family: Verdana;
+	font-weight : bold;
+}
+
+nav{
+	font-size :20px;
+}
+
+.button1 {
+	color : white;
+	background-color :rgb(96, 32, 64);
+}
+.div21{
+	margin-left :0px;
+}
+
+.div4 h3 , .div5 h3 ,.div22 h3{
+	color : red;
+	font-size : 15px;
+}
+
+.div5 , {
+	width : 50%;
+}
+
+.div23{
+	margin-left :603px;
+}
